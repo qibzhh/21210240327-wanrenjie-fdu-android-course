@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="action_settings">Settings</string>
+    <string name="create_list">新建ToDoList</string>
+    <string name="update">更新</string>delete_database
+    <string name="delete_database">删除数据库</string>d
+</resources>
